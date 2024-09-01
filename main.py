@@ -1,5 +1,6 @@
-
-
+#
+#Leitura de arquivo .csv do Steam
+#
 f= open ("jogos.csv")
 
 for line in f:
