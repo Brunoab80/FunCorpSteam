@@ -1,7 +1,7 @@
 #
 #Leitura de arquivo .csv do Steam
 #
-f = open("jogos.csv")
+f = open("jogos2.csv")
 
 gratuitos = 0
 pagos = 0
